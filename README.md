@@ -9,11 +9,10 @@ The library's functionality can be used for orchestration by external frameworks
 but will remain <b>independent<b> to facilitate use by other modules and frameworks.  
 
 Architecture will strive to remain functionally flat => exposing atomic functionality independent of encapsulating multi purpose large objects.
-s
+
 Dependencies
 -
 Wielder : https://github.com/hamshif/Wielder.git
-
  
 data-config:  https://github.com/hamshif/data-config.git
 
